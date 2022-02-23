@@ -1,6 +1,9 @@
 # RESTful-API vs. gRPC benchmark testing
 This gist contains the benchmark testing code of RESTful-API and gRPC
 
+# Benchmark Result
+![](./benchmark.png)
+
 # How to do a benchmark test
 There are 2 types of benchmark testing(grpc, rest)
 First, start the server
