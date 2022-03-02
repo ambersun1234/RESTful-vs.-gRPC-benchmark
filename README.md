@@ -1,11 +1,11 @@
 # RESTful-API vs. gRPC benchmark testing
-This gist contains the benchmark testing code of RESTful-API and gRPC
+This project contains the benchmark testing code of RESTful-API and gRPC
 
 # Benchmark Result
 ![](./benchmark.png)
 
 # How to do a benchmark test
-There are 2 types of benchmark testing(grpc, rest)
+There are 2 types of benchmark testing(grpc, rest)\
 First, start the server
 ```shell
 $ cd ./grpc or cd ./rest
@@ -19,8 +19,8 @@ $ python3 benchmark.py
 ```
 
 # Plot
-Once you finished with benchmark testing
-Just simple run
+Once you finished with benchmark testing\
+Just simply run
 ```shell
 $ make plot
 ```
